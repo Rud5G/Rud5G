@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning an Udacity Course: Cloud DevOps Engineer
 
 
-[![Rudger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud5G)](https://github.com/Rud5G/github-readme-stats)
 
-[![Rudger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud5G&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/Rud5G)
+[![Rudger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud5G&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)](https://github.com/Rud5G)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Rud5G)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rud5G)](https://github.com/Rud5G)
 
 
 <!--
