@@ -1,12 +1,9 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning an Udacity Course: Cloud DevOps Engineer
-
-
+### Welcome 👋
 
 [![Rudger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rud5G&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)](https://github.com/Rud5G)
 
 
+- 🌱 I’m currently learning an Udacity Course: Cloud DevOps Engineer
 
 <!--
 **Rud5G/Rud5G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
