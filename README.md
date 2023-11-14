@@ -13,6 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rud5G)](https://github.com/Rud5G)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rud5G&layout=compact)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
